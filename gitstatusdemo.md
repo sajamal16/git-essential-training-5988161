@@ -1,5 +1,1 @@
-this is content
-
-this is an extra line
-
-and another small change
+this is a new line, specifically for LinkedIn Learning
